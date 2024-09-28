@@ -1,0 +1,31 @@
+the_world_of_herobrine ( 8.12.18 update )
+
+Fixes:
+
+1 - Fixed spawn rate of herobrine.
+2 - Fixed a crash while loading with optifine.
+3 - Fixed hero debris not generate. ( overworld )
+
+Changes:
+
+1 - Re-texure the herobrine alpha sword.
+2 - Attack damage of sword of hero is now ( 25 )
+3 - Changed the recept of the herobrine alpha sword.
+4 - Changed nockback of herobrine.
+
+Update:
+
+Added: herobrine totum.
+Added: hero fence.
+Added: hero fence gate.
+Added: hero stairs.
+Added: hero wall.
+Added: hero trapdoor.
+Added: herodoor.
+Added: hero pressureplate.
+Added: hero button.
+Added: heart of herobrine slab.
+
+Dev:
+
+1 - Cleared some ( non ) using codes.
